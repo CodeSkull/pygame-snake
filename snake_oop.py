@@ -2,6 +2,8 @@ import random
 import pygame, sys
 from pygame.locals import *
 
+#hello there this is a test for github commits
+
 # Set up the colours
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
